@@ -1,0 +1,3 @@
+const char* ssid = ""; //Please specify SSID
+const char* password = ""; //Please specify WiFi PW
+const char* MACAddress = ""; //Please specify target MAC address.
